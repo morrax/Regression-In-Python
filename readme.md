@@ -1,4 +1,6 @@
 # Regression-In-Python
+[![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-360/)
+
 Collection of simple programs to implement numerous type of regression using Python libraries.
 
 ## Library used
